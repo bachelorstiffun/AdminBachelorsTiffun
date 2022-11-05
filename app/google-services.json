@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "204866641641",
+    "firebase_url": "https://bachelors-tiffun-default-rtdb.firebaseio.com",
+    "project_id": "bachelors-tiffun",
+    "storage_bucket": "bachelors-tiffun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204866641641:android:252aa1ef3443ab19e0da78",
+        "android_client_info": {
+          "package_name": "com.example.bachelorstiffun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204866641641-7ujh12touhhs98v7n1fci2o6hr7sb8mn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bachelorstiffun",
+            "certificate_hash": "9294dbf7472519ca1d5fd633c1cc549c53534ec7"
+          }
+        },
+        {
+          "client_id": "204866641641-s7gp7jnjsd3uptdp43c4j39s5h613l7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJ05dwT_S2Z9w9L_AXgqRGCDN-eFK-9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204866641641-s7gp7jnjsd3uptdp43c4j39s5h613l7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204866641641:android:12e64d3756a8e8e4e0da78",
+        "android_client_info": {
+          "package_name": "com.touchizen.drawerwithbottomnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204866641641-s7gp7jnjsd3uptdp43c4j39s5h613l7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJ05dwT_S2Z9w9L_AXgqRGCDN-eFK-9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204866641641-s7gp7jnjsd3uptdp43c4j39s5h613l7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
